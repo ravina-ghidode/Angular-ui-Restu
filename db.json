@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "errt",
+      "email": "errt@gmail.com",
+      "mobile": "+916264559192",
+      "address": "gc",
+      "services": "err"
+    },
+    {
+      "id": 5,
+      "name": "DCb",
+      "email": "dc@gmail.com",
+      "mobile": "1233",
+      "address": "gc",
+      "services": "yyy"
+    },
+    {
+      "id": 6,
+      "name": "anil",
+      "email": "string@gmail.com",
+      "mobile": "+916264559192",
+      "address": "gc",
+      "services": "wwe"
+    },
+    {
+      "id": 7,
+      "name": "Ravu",
+      "email": "string@gmail.com",
+      "mobile": "+916264559192",
+      "address": "gurgaon",
+      "services": "chai, coffe, Drink"
+    }
+  ],
+  "signup": [
+    {
+      "name": "ravina26ghidode@gmail.com",
+      "email": "ravina26ghidode@gmail.com",
+      "password": "12343",
+      "mobile": "ravina26ghidode@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "ravu",
+      "email": "string@gmail.com",
+      "password": "12345",
+      "mobile": "12345",
+      "id": 2
+    },
+    {
+      "name": "ravina",
+      "email": "ravina26ghidode@gmail.com",
+      "password": "12345",
+      "mobile": "1234",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
